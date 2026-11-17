@@ -91,4 +91,4 @@ Após fazer o login, digite os endereços abaixo diretamente na barra do navegad
 Para testar a aplicação localmente, utilize as credenciais padrão do administrador inicial:
 
 * **E-mail:** `admin@distribuidora.com`
-* **Senha:** `123456`
+* **Senha:** `senhaSegura123`
